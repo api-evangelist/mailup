@@ -1,0 +1,99 @@
+{
+    "name": "MailUp",
+    "description": "MailUp is your complete email and SMS delivery solution that combines powerful email marketing tools with SMTP relay and plugins for e-commerce, CRM, and CMS systems",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1022-mailup.jpg",
+    "tags": [
+        "api provider",
+        "broadcasts",
+        "email marketing",
+        "have api",
+        "messages"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mailup\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MailUp",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1022-mailup.jpg",
+            "humanURL": "http:\/\/www.mailup.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mailup-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mailup-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/services.mailup.com\/API\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mailup.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mailup.com\/feed\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mailup"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mailup"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.mailup.com\/p\/pc\/api-web-services-integrations-d65.htm"
+        },
+        {
+            "type": "Email",
+            "url": "info@mailup.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@mailup.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@mailup.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@mailup.com"
+        },
+        {
+            "type": "Email",
+            "url": "dpo@mailup.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mailup"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.mailup.com\/pricing\/email\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mailup_us"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mailup.com\/"
+        }
+    ]
+}
